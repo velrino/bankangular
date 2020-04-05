@@ -1,1 +1,13 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css";
+
+body {
+  background-color: #82269e;
+}
+
+.center-horizontal-vertical {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
